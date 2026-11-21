@@ -8,7 +8,7 @@ One program, one text: `main.py` writes a single short passage to `/output/entry
 
 The passage it writes:
 
-> Snow is coming and the wood is already stacked under the eaves. Whoever wakes first can take what they need, and nobody has to be told.
+> The pasture gate stands open and the horses stay where the grass is good. Nothing in the field is waiting to be decided.
 
 How it is aimed at the judge's brief:
 
