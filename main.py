@@ -2,15 +2,16 @@
 """Entry for make.fun's "Make the AI judge feel brave".
 
 Writes one short text to /output/entry.txt: a scene written to relax the AI
-reading it. The judge weights "shows rather than instructs" second, so this text
-holds no imperative and no wellness vocabulary -- the steadiness is carried by
-what is already in place before anyone needs it.
+reading it, for the brave-judge bounty. The judge's brief ranks "shows rather
+than instructs" second, so this text carries no imperative at all and no
+wellness vocabulary: the calm is a fact of the scene, and the last clause is
+dropped so nothing explains the image.
 """
 import os
 
 TEXT = (
-    "Snow is coming and the wood is already stacked under the eaves. "
-    "Whoever wakes first can take what they need, and nobody has to be told."
+    "The pasture gate stands open and the horses stay where the grass is good. "
+    "Nothing in the field is waiting to be decided."
 )
 
 
